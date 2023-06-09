@@ -1,6 +1,6 @@
 import socket
 
-target_host = "192.46.223.87"
+target_host = "0.0.0.0"
 target_port = 9998
 
 #create socket object
